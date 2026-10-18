@@ -1,6 +1,6 @@
 # B2B Sales Opportunities Dashboard
 
-This project uses the Maven Analytics [CRM Sales Opportunities database](https://mavenanalytics.io/data-playground/crm-sales-opportunities) , which contains data from a company that sells computer components. The Power BI dashboard was also published online.
+This project uses the Maven Analytics [CRM Sales Opportunities database](https://mavenanalytics.io/data-playground/crm-sales-opportunities) , which contains data from a company that sells computer components. The Power BI dashboard was also [published online](https://app.powerbi.com/view?r=eyJrIjoiMWZmNmIxOTEtOWNkNy00NTBjLTk0MjQtOWQ3NTZlZGM3ZjY1IiwidCI6IjEyODg2NTI1LTVkNTgtNDg4MS05N2U5LTgwMjBhYzNiY2Y2NCJ9)
 
 ![Power bi dashboard screenshot](media/dashboard_ss.webp)
 
